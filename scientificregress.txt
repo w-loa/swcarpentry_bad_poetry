@@ -1,2 +1,16 @@
+<<<<<<< HEAD
+Hi ;-) 
+
+
+=======
+Hello I'm Benoît and I'm tired ! ^^
+>>>>>>> 7d4e4453ff31a4bc3fa00ca313c09f4d249e26fb
+
 http://www.firstthings.com/article/2016/05/scientific-regress
+<<<<<<< HEAD
 hello
+=======
+It seems very interesting.. I'll read it after. Thank you for that.
+
+READ THE ARTICLE...
+>>>>>>> 59bfce8f562acd3be475af68390aa64c6ed35dc0
