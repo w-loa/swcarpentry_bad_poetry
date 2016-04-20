@@ -1,13 +1,36 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi ;-) I am very good at that !!
 
+=======
+My brain cannot manage scientific article anymore :p 
+
+When is the nap break?
+
+Am I again the first one to publish again?
+
+Come on guys ! Git is easy !!! ^^
+
+Best wishes,
+
+Benoit
+
+=======
+<<<<<<< HEAD
+Hi ;-) 
+>>>>>>> f0e34bccd1aa9d3735d976c5095423751a09bef0
 
 
 =======
+>>>>>>> 476849fdd8b4749e865385c75fc22a0e0e4823aa
 Hello I'm Benoît and I'm tired ! ^^
 >>>>>>> 7d4e4453ff31a4bc3fa00ca313c09f4d249e26fb
 
 http://www.firstthings.com/article/2016/05/scientific-regress
+<<<<<<< HEAD
+hello
+=======
 It seems very interesting.. I'll read it after. Thank you for that.
 
 READ THE ARTICLE...
+>>>>>>> 59bfce8f562acd3be475af68390aa64c6ed35dc0
